@@ -34,9 +34,4 @@ frase.split() # divide a frase, colocando cada palavra em listas diferentes
 # Junção
 '-'.join(frase) # junta todos os elementos de frase utilizando hifen como separador
 
-###############################################################################################################
 
-# Parte prática:
-
-frase = 'Curso em Video Python'
-print(frase[0:])
