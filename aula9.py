@@ -11,10 +11,8 @@ print(frase[9::3])  # começa do caracter 9 e vai até o caracter 20, pulando de
 # Análise
 len(frase)  # esse comando mostra a quantidade de caracteres que a frase possui
 frase.count('o')  # esse comando mostra quantas vezes a letra 'o' aparece na frase
-frase.count('o', 0,
-            13)  # esse comando mostra quantas vezes a letra 'o' aparece na frase desde o 0 até o 12, eliminado o 13
-frase.find(
-    'deo')  # esse comando mostra quantas vezes encontrou o 'deo', mostrando a posição que esses caracteres iniciaram
+frase.count('o', 0, 13)  # esse comando mostra quantas vezes a letra 'o' aparece na frase desde o 0 até o 12, eliminado o 13
+frase.find('deo')  # esse comando mostra quantas vezes encontrou o 'deo', mostrando a posição que esses caracteres iniciaram
 frase.find('Android')  # quando um caracter não é encontrado na frase, o programa mostrará ao usuário o valor de -1
 # 'Curso' in frase # se existe esse caracter na frase o programa mostrará o valor "True"
 
