@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af09d8fc-6200-46fe-87be-6dd5cde02a6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/guanabarapy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/guanabarapy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +37,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.ex020">
-    <configuration name="ex016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula9">
+    <configuration name="aula9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guanabarapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex016.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula9" />
         <item itemvalue="Python.ex020" />
         <item itemvalue="Python.ex019" />
         <item itemvalue="Python.ex018" />
         <item itemvalue="Python.ex017" />
-        <item itemvalue="Python.ex016" />
       </list>
     </recent_temporary>
   </component>
